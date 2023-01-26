@@ -32,12 +32,13 @@
     }
     /*explaining  color for a tag and text decoration */
     a:link{
-    
-        color:rgb(19, 39, 226);
+        font-size:20px;
+        color:rgb(126, 185, 180);
         text-decoration: none;
     }
     a:hover{
-    color: rgb(255, 255, 255);
+    font-size:20px;
+    color: rgb(20, 157, 199);
     text-decoration: underline;
     }
     
@@ -51,7 +52,7 @@
 
     .subheading{
 
-border-bottom: solid 2em rgb(78, 201, 223) ;
+border-bottom: solid 5px rgb(189, 226, 233) ;
 
     }
 
