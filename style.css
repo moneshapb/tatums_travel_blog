@@ -33,11 +33,11 @@
     /*explaining  color for a tag and text decoration */
     a:link{
     
-        color:rgb(153, 158, 204);
+        color:rgb(19, 39, 226);
         text-decoration: none;
     }
     a:hover{
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: underline;
     }
     
@@ -51,7 +51,7 @@
 
     .subheading{
 
-border-bottom: solid 2em white ;
+border-bottom: solid 2em rgb(78, 201, 223) ;
 
     }
 
